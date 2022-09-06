@@ -1,6 +1,6 @@
 version = "1.10.0"
 configVersion = "1.10.0"
-print(f"Fortnite Save the World Claimer v{version} by PRO100KatYT\n")
+print(f"Fortnite Save the World Claimer v{version} by Blitzer2\n")
 
 import os
 try:
